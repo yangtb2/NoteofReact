@@ -1,1 +1,1 @@
-import {} from "./Lifecycle03";
+import {} from "./Lifecycle05_getSnapshotBeforeUpdate";
